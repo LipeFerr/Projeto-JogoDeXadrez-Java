@@ -1,1 +1,6 @@
 java application/Program.java application/UI.java boardgame/Board.java boardgame/BoardException.java boardgame/Piece.java boardgame/Position.java chess/pieces/Bishop.java chess/pieces/King.java chess/pieces/Knight.java chess/pieces/Pawn.java chess/pieces/Queen.java chess/pieces/Rook.java chess/ChessException.java chess/ChessMatch.java chess/ChessPiece.java chess/chessPosition.java chess/Color.java
+
+or 
+
+
+java application/*.java boardgame/*.java chess/*.java
