@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Chess System in Java
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LipeFerr/chess-system-java/blob/main/LICENSE) 
 
 # Sobre o projeto
