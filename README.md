@@ -33,7 +33,7 @@ git clone git@github.com:LipeFerr/chess-system-java.git
 # entrar na pasta bin
 cd chess-system\bin
 
-# executar o projeto no console (Recomendo o 'Git Bash' por ser colorido por padrão)
+# executar o projeto (Recomendo o 'Git Bash' por ser colorido por padrão)
 java application/Program
 ```
 
