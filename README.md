@@ -3,10 +3,10 @@
 
 # Sobre o projeto
 
-Foi desenvolvido um sistema de xadrez em java utilizando todos os conceitos de orientação a objeto afim de exercitar
-a teoria e conciliar com a pratica, sendo bem seguimentado, o jogo funciona utilizando um sistema de coordenadas
-aonde você escolhe a peça colocando sua posição de origin e em seguida indica a posição de destino para move-lá.
-O projeto ficou bem completo contando com varios efeitos como: troca de turno impedindo que o jogador mova peças adversarias, visualização de posiveis movimentos impossibilando o movimento errado, capturação das peças adversarias com visualição na tela, impletação de movimentos especias como en passant, roque (especial do rei) e promoção do peão.
+Foi desenvolvido um sistema de xadrez em java utilizando todos os conceitos de orientação a objeto a fim de exercitar
+a teoria e conciliar com a prática, sendo bem segmentado, o jogo funciona utilizando um sistema de coordenadas
+aonde você escolhe a peça colocando sua posição de origem e em seguida indica a posição de destino para movê-la.
+O projeto ficou bem completo contando com vários efeitos como: troca de turno impedindo que o jogador mova peças adversarias, visualização de possíveis movimentos impossibilitando o movimento errado, capturamento das peças adversarias com visualização na tela, implementação de movimentos especias como en passant, roque (especial do rei) e promoção do peão.
 
 ## Layout Console
 ![Console 1](https://github.com/LipeFerr/img/blob/main/chess-system-java/layout_chess_system1.png)
