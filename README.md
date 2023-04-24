@@ -4,8 +4,8 @@
 # Sobre o projeto
 
 Foi desenvolvido um sistema de xadrez em java utilizando todos os conceitos de orientação a objeto afim de exercitar
-a teoria e conciliar com a pratica, o projeto ficou muito bem seguimentado, o jogo funciona utilizando um sistema de coordenadas
-aonde você escolhe a peça de colocando sua posição de origin e em seguida indica a posição de destino para move-lá.
+a teoria e conciliar com a pratica, sendo bem seguimentado, o jogo funciona utilizando um sistema de coordenadas
+aonde você escolhe a peça colocando sua posição de origin e em seguida indica a posição de destino para move-lá.
 O projeto ficou bem completo contando com varios efeitos como: troca de turno impedindo que o jogador mova peças adversarias, visualização de posiveis movimentos impossibilando o movimento errado, capturação das peças adversarias com visualição na tela, impletação de movimentos especias como en passant, roque (especial do rei) e promoção do peão.
 
 ## Layout Console
