@@ -1,4 +1,4 @@
-# Chess System in Java
+# Sistema de Xadrez utilizando Java
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LipeFerr/chess-system-java/blob/main/LICENSE) 
 
 # Sobre o projeto
